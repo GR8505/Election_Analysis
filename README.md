@@ -1,5 +1,5 @@
 # Election_Analysis
-#________________________________________________________________________________________________________________________________#
+# ________________________________________________________________________________________________________________________________ #
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local
@@ -29,4 +29,9 @@ The analysis of the election show that:
 * The winner of the election was:
   - Diana DeGette who received 73.8% of the vote with 272,892 votes.
 
-#__________________________________________________________________________________________________________________________________#
+# __________________________________________________________________________________________________________________________________ #
+
+## Challenge Overview ##
+
+
+## Challenge Summary ##
