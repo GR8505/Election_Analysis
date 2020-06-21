@@ -32,6 +32,34 @@ The analysis of the election show that:
 # ___________________________________________________________________ #
 
 ## Challenge Overview ##
+A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local
+congressional election.
+1. Calculate the number of votes that were cast from each county.
+2. Calculate the percentage of votes each county contributed to the election.
+3. Determine which county had the largest voter turnout.
 
+## Resources ##
+- Data Source: election_results.csv
+- Software: Python 3.6.7, Visual Studio Code, 1.45.1
 
 ## Challenge Summary ##
+The analysis of the election show that:
+* The counties were:
+  - Jefferson
+  - Denver
+  - Arapahoe
+* The county results were:
+  - Jefferson county had 10.5% of the total vote with 38,855 votes cast.
+  - Denver county had 82.8% of the total vote with 306,055 votes cast.
+  - Arapahoe county had 6.7% of the total vote with 24,801 votes cast.
+* Denver had the largest voter turnout.
+
+# ______________________________________________________________________ #
+
+
+
+
+
+
+
+
