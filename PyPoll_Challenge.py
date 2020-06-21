@@ -107,7 +107,7 @@ with open(file_to_save, "w") as txt_file:
     for county in county_votes:
         cvotes = county_votes[county]
         county_vote_percentage = int(cvotes) / int(total_votes) * 100
-        county_results = (f"{county}: {county_vote_percentage:.1f} % ({cvotes:,})\n")
+        county_results = (f"{county}: {county_vote_percentage:.1f}% ({cvotes:,})\n")
         
         # Printing results to terminal and writing it to text file
         print(county_results)
@@ -135,7 +135,7 @@ with open(file_to_save, "w") as txt_file:
     for candidate in candidate_votes:
         votes = candidate_votes[candidate]
         vote_percentage = int(votes) / int(total_votes) * 100
-        candidate_results = (f"{candidate}: {vote_percentage:.1f} % ({votes:,})\n")
+        candidate_results = (f"{candidate}: {vote_percentage:.1f}% ({votes:,})\n")
         
         # Printing results to terminal and writing it to text file
         print(candidate_results)
@@ -150,7 +150,7 @@ with open(file_to_save, "w") as txt_file:
         f"---------------------------\n"
         f"Winner: {winning_candidate}\n"
         f"Winning Vote Count: {winning_count:,}\n"
-        f"Winning Percentage: {winning_percentage:.1f} %\n"
+        f"Winning Percentage: {winning_percentage:.1f}%\n"
         f"---------------------------\n")
     
     # Printing candidate with the highest number of votes, writing results to text
