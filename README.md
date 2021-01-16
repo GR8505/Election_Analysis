@@ -46,6 +46,8 @@ The results of the elections are as follows:
   
 * **Denver had the largest voter turnout**
 
+For in-depth look at python code and the use of for loops and conditionals,
+check out the [link](https://github.com/GR8505/Election_Analysis/blob/master/PyPoll_Challenge.py)
 ___________________________________________________________
 
 
