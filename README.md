@@ -1,5 +1,5 @@
 # Election Analysis
-# _______________________________________________________________ #
+_______________________________________________________________ 
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local
@@ -29,7 +29,7 @@ The analysis of the election show that:
 * The winner of the election was:
   - Diana DeGette who received 73.8% of the vote with 272,892 votes.
 
-# ___________________________________________________________ #
+___________________________________________________________
 
 ## Challenge Overview ##
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local
@@ -54,7 +54,7 @@ The analysis of the election show that:
   - Arapahoe county had 6.7% of the total vote with 24,801 votes cast.
 * Denver had the largest voter turnout.
 
-# ___________________________________________________________ #
+___________________________________________________________
 
 
 
