@@ -17,7 +17,7 @@ The Colorado Board of Elections provided me with the following tasks to complete
 - Software: Python 3.6.7, VSCode 1.45.1
 
 ## Summary
-The results of the elections are as follows:
+The [results](https://github.com/GR8505/Election_Analysis/blob/master/Analysis/election_results.txt) of the elections are as follows:
 
 * **There were 369,711 votes cast in the election**
 
@@ -47,7 +47,7 @@ The results of the elections are as follows:
 * **Denver had the largest voter turnout**
 
 For in-depth look at python code and the use of for loops and conditionals,
-check out the [link](https://github.com/GR8505/Election_Analysis/blob/master/PyPoll_Challenge.py)
+check out the [link](https://github.com/GR8505/Election_Analysis/blob/master/PyPoll_Challenge.py).
 ___________________________________________________________
 
 
